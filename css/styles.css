@@ -161,7 +161,7 @@ h1 {
 	background-color: var(--second-color);
 }
 
-@media (max-width: 576px) {
+@media (min-width: 576px) {
 	
 	.name {
 		font-size: 48;
