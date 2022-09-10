@@ -163,7 +163,7 @@ h1 {
 
 @media (max-width: 576px) {
 	
-	.name {
+	.name, .aboutFont {
 		font-size: 48px;
 	}
 
