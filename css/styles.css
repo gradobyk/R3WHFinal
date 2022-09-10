@@ -172,4 +172,10 @@ h1 {
 		font-size: 32px;
 	}
 
+	.fullSk {
+
+	display: block;
+    text-align: center;
+	}
+
 }
